@@ -3,4 +3,4 @@
 2. Độ phức tạp trong trường hợp xấu nhất là O(n).
 
 <br>
-=> Độ phức tạp mà log n thì cũng gọi là nhanh rồi đấy.
+=> Độ phức tạp mà (log n) thì cũng gọi là nhanh rồi đấy.
