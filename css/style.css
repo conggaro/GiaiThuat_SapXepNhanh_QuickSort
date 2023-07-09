@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    width: 400px;
+    height: 45px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+    font-size: 30px;
+    padding-left: 8px;
+}
+
+button{
+    width: 413.2px;
+    height: 40px;
+    margin-top: 20px;
+    cursor: pointer;
+    background: #d9eee1;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+}
+
+button:hover{
+    background: #018d5a;
+    color: white;
+}
+
+h1.tieu_de_1{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+
+    /* thiết lập vị trí */
+    position: relative;
+    top: 52px;
+    left: -486px;
+}
+
+h1.tieu_de_2{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+
+    /* thiết lập vị trí */
+    position: relative;
+    top: 52px;
+    left: -336px;
+}
+
+.container{
+    width: 1200px;
+    height: 190px;
+    margin-top: 55px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background: rgb(0, 150, 255);
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    align-content: flex-start;
+}
+
+.child{
+    width: 50px;
+    height: 50px;
+    margin: 10px 10px 0px 0px;
+    background: #EAEAE9;
+
+    box-sizing: border-box;
+    border: solid 1px black;    
+
+    /* căn lề cho chữ */
+    text-align: center;
+    line-height: 50px;
+
+    position: relative;
+    left: 5px;
+
+    /* không cho người dùng bôi đen text */
+    user-select: none;
+}

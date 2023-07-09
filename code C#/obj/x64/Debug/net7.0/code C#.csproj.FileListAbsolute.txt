@@ -1,0 +1,15 @@
+C:\Users\nccon\Downloads\QuickSort\code C#\bin\x64\Debug\net7.0\code C#.exe
+C:\Users\nccon\Downloads\QuickSort\code C#\bin\x64\Debug\net7.0\code C#.deps.json
+C:\Users\nccon\Downloads\QuickSort\code C#\bin\x64\Debug\net7.0\code C#.runtimeconfig.json
+C:\Users\nccon\Downloads\QuickSort\code C#\bin\x64\Debug\net7.0\code C#.dll
+C:\Users\nccon\Downloads\QuickSort\code C#\bin\x64\Debug\net7.0\code C#.pdb
+C:\Users\nccon\Downloads\QuickSort\code C#\obj\x64\Debug\net7.0\code C#.csproj.AssemblyReference.cache
+C:\Users\nccon\Downloads\QuickSort\code C#\obj\x64\Debug\net7.0\code C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nccon\Downloads\QuickSort\code C#\obj\x64\Debug\net7.0\code C#.AssemblyInfoInputs.cache
+C:\Users\nccon\Downloads\QuickSort\code C#\obj\x64\Debug\net7.0\code C#.AssemblyInfo.cs
+C:\Users\nccon\Downloads\QuickSort\code C#\obj\x64\Debug\net7.0\code C#.csproj.CoreCompileInputs.cache
+C:\Users\nccon\Downloads\QuickSort\code C#\obj\x64\Debug\net7.0\code C#.dll
+C:\Users\nccon\Downloads\QuickSort\code C#\obj\x64\Debug\net7.0\refint\code C#.dll
+C:\Users\nccon\Downloads\QuickSort\code C#\obj\x64\Debug\net7.0\code C#.pdb
+C:\Users\nccon\Downloads\QuickSort\code C#\obj\x64\Debug\net7.0\code C#.genruntimeconfig.cache
+C:\Users\nccon\Downloads\QuickSort\code C#\obj\x64\Debug\net7.0\ref\code C#.dll

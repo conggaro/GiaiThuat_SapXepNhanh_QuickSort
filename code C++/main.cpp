@@ -2,7 +2,7 @@
 // Phân hoạch của Hoare (tiếng Anh là Hoare Partition)
 
 #include <iostream>
-#define SIZE 100
+#define SIZE 1000
 using namespace std;
 
 // tạo hàm phân hoạch 
@@ -79,7 +79,8 @@ int main(){
     srand(time(NULL));
     for (int i = 0; i < n; i++)
     {
-        arr[i] = rand() % 1000;
+        // có thể tạo số ngẫu nhiên từ 0 đến 1000
+        arr[i] = rand() % 1000 + 1;
     }
 
     // in ra mảng ban đầu
